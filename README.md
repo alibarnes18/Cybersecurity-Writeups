@@ -4,7 +4,7 @@ This repository contains my hands-on web security writeups based on PortSwigger 
 
 The goal of this repo is to understand how real-world web vulnerabilities work by practicing exploitation techniques and documenting each step clearly.
 
----
+
 
 ##  What You Will Find Here
 
@@ -16,7 +16,7 @@ Each folder represents a completed lab and includes:
 - Explanation of how the vulnerability works
 - Suggested mitigation techniques
 
----
+
 
 ##  Topics Covered
 
@@ -26,14 +26,14 @@ Each folder represents a completed lab and includes:
 - Authentication vulnerabilities
 - Access control issues
 
----
+
 
 ##  Purpose
 
 This repository is part of my learning path in web security and ethical hacking.  
 It focuses on understanding vulnerabilities from an attacker’s perspective to build stronger defensive thinking.
 
----
+
 
 ##  Disclaimer
 
